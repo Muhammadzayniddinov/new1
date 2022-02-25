@@ -5,6 +5,7 @@ import StadiumDetail from "./pages/StadiumDetail";
 import StadiumCreate from "./pages/StadiumCreate";
 
 const App = () => {
+  //o'zgartirish kiritdim
   return (
     <BrowserRouter>
       <Routes>
